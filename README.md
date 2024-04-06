@@ -13,7 +13,7 @@
 
 -	Step 1: **clone the repository**
 ```
-git clone https://github.com/optimzedLP/chrome_offline_game.git
+git clone https://github.com/optimizedLP/chrome_offline_game.git
 ``` 
 -	Step 2: download the dependencies in your Command Prompt OR Terminal using:
 ```
