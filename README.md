@@ -20,7 +20,8 @@ git clone https://github.com/optimizedLP/chrome_offline_game.git
 ``` 
 -	Step 2: download the dependencies in your Command Prompt OR Terminal using:
 ```
-pip install requirements.txt
+pip install requirements.tx
+pip install pygame
 ```
 
 ### Usage:
