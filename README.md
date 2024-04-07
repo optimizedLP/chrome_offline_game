@@ -1,5 +1,8 @@
 # Chrome Offline Dinosaur Game 
 
+<p align="center">
+  <img src="DinoWallpaper.png" width="97" height="97">
+
 ### Introduction:
 
 -	The Dinosaur Game, also known as the **T-Rex Game, Steve the Jumping Dinosaur, or Dino Runner** and initially codenamed Project Bolan, is a built-in browser game in the **Google Chrome Web Browser**. The game was created by **Sebastien Gabriel in 2014**, and can be accessed by hitting the space bar when in offline mode on Google Chrome.
